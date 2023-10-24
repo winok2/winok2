@@ -1,4 +1,4 @@
-# Kennedy Ojowi_Data Analysist/Scientist Portfolio
+# Kennedy Ojowi_Data Analyst/Scientist Portfolio
 
 ## Overview
 
