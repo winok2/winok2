@@ -7,9 +7,9 @@ Welcome to my data analysis portfolio! In this repository, you'll find a collect
 ## About Me
 
 - 👋 Hi, I'm [@winok2](https://github.com/winok2).
-- 👀 I'm interested in data analysis, data visualization, and machine learning.
-- 🌱 I'm currently learning new data analysis techniques and expanding my knowledge of machine learning.
-- 💞️ I'm looking to collaborate on open-source data projects and interesting data analysis challenges.
+- 👀 I'm interested in data analysis, data visualization, machine learning and health informatics.
+- 🌱 I'm currently learning new data analysis techniques and expanding my knowledge of machine learning and health informatics.
+- 💞️ I'm looking to collaborate on open-source healthcare data projects and interesting data analysis challenges.
 - 📫 You can reach me via email at [kowino34@yahoo.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/kennedy-ojowi)
   
 ## Projects
@@ -25,6 +25,8 @@ Welcome to my data analysis portfolio! In this repository, you'll find a collect
 - Renewable energy consumption has seen a decline.
 
 **Technologies Used:** Power BI, M language, data visualization.
+
+### Project 2 is going to be health related.
 
 ## License
 
