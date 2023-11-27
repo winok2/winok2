@@ -14,19 +14,39 @@ Welcome to my data analysis portfolio! In this repository, you'll find a collect
   
 ## Projects
 
-### Project 1: Exploring Climate Change Trends in Kenya
+# Project 1: Does Incentives play a role in HIV Status Disclosure?
+
+**Description:** 
+This project analyzes a study in Malawi to understand the impact of cash incentives on HIV disclosure. Key factors, including age, distance, and incentives, are explored.
+
+**Key Findings:**
+1. **Incentive Analysis:**
+   - Moderate correlation (0.35) between incentive and HIV disclosure.
+
+**Technologies Used:**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Visual Studio Code
+
+**Project Impact:**
+This project contributes insights into HIV disclosure dynamics, informing public health interventions and incentive strategies.
+
+**Repository** [link](https://github.com/winok2/HIV-status-disclosure-analysis-and-prediction).
+
+### Project 2: Exploring Climate Change Trends in Kenya
 
 **Description:** An in-depth analysis of climate change trends in Kenya from 1960 to 2022.
 
-**Key Findings:**
+**Key take aways:**
 - CO2 emissions have been on the rise.
 - Urban population growth has been consistent.
 - Forest cover in Kenya has decreased.
 - Renewable energy consumption has seen a decline.
 
-**Technologies Used:** Power BI, M language, data visualization.
+**Technologies Used:** Power BI and M language.
+**Repository** [link](https://github.com/winok2/Factors-contributing-to-Climate-Change-in-Kenya)
 
-### Project 2 is going to be health related.
+
+### Project 3 is going to be health related
 
 ## License
 
