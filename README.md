@@ -14,7 +14,7 @@ Welcome to my data analysis portfolio! In this repository, you'll find a collect
   
 ## Projects
 
-# Project 1: Does Incentives play a role in HIV Status Disclosure?
+## Project 1: Does Incentives play a role in HIV Status Disclosure?
 
 **Description:** 
 This project analyzes a study in Malawi to understand the impact of cash incentives on HIV disclosure. Key factors, including age, distance, and incentives, are explored.
@@ -32,7 +32,7 @@ This project contributes insights into HIV disclosure dynamics, informing public
 
 **Repository** [link](https://github.com/winok2/HIV-status-disclosure-analysis-and-prediction).
 
-### Project 2: Exploring Climate Change Trends in Kenya
+## Project 2: Exploring Climate Change Trends in Kenya
 
 **Description:** An in-depth analysis of climate change trends in Kenya from 1960 to 2022.
 
