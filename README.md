@@ -10,7 +10,7 @@ Welcome to my data analysis portfolio! In this repository, you'll find a collect
 - 👀 I'm interested in data analysis, data visualization, machine learning and health informatics.
 - 🌱 I'm currently learning new data analysis techniques and expanding my knowledge of machine learning and health informatics.
 - 💞️ I'm looking to collaborate on open-source healthcare data projects and interesting data analysis challenges.
-- 📫 You can reach me via email at [kowino34@yahoo.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/kennedy-ojowi)
+- 📫 You can reach me via [email](kowino34@yahoo.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kennedy-ojowi)
   
 ## Projects
 
