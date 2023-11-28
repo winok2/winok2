@@ -48,7 +48,7 @@ This project contributes insights into HIV disclosure dynamics, informing public
 
 ## Project 3: Finding Insights from Unstructured EHR Clinical Notes
 - Regex and Python can be harnessed to find key data from noisy text corpus
-**Repository** [link](https://github.com/winok2/Making-Sense-Out-of-Unstructured-Patient-Data)
+-**Repository** [link](https://github.com/winok2/Making-Sense-Out-of-Unstructured-Patient-Data)
 
 ## Project 4: Is in prepocessing stage
 
