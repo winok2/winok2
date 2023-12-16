@@ -51,9 +51,10 @@ This project contributes insights into HIV disclosure dynamics, informing public
 -**Repository** [link](https://github.com/winok2/Making-Sense-Out-of-Unstructured-Patient-Data)
 
 ## Project 4: Examining Patient risk of developing coronary artery disease (CAD) within the next 10 years
--Utilized Python for data cleaning and Power BI for Visualization
--**Key take aways:** This project provide valuable insight for specific risk categories and age groups that may benefit from tailored healthcare interventions and preventive measures.
--**Repository** [link](https://github.com/winok2/Coronary-Artery-Disease-Risk-Stratification)
+
+- Utilized Python for data cleaning and Power BI for Visualization
+- **Key take aways:** This project provide valuable insight for specific risk categories and age groups that may benefit from tailored healthcare interventions and preventive measures.
+- **Repository** [link](https://github.com/winok2/Coronary-Artery-Disease-Risk-Stratification)
 
 
 ## Project 5: Is in prepocessing stage
