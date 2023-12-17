@@ -53,5 +53,5 @@ This portfolio is open-source and available under the [MIT License](LICENSE). Pl
 Gratitude to the open-source data analyis softwares, plethora of [free online data sets](https://www.kaggle.com/datasets) and the authors of the libraries and tools that contribute to the success of these projects
 
 
-<img src="https://media.licdn.com/dms/image/C4D03AQFsin8lC2LZNw/profile-displayphoto-shrink_400_400/0/1589560915434?e=1708560000&v=beta&t=qkBFRSeACq3lDm7U_Y_2QL4ew7OJL9sua1D4Hhpr7rI" width="20" height="20">[![Profile Views](https://komarev.com/ghpvc/?username=winok2&label=Profile+Views&color=001F3F&style=flat-square)](https://github.com/winok2)
+<img src="https://avatars.githubusercontent.com/u/137515971?v=4" width="20" height="20">[![Profile Views](https://komarev.com/ghpvc/?username=winok2&label=Profile+Views&color=001F3F&style=flat-square)](https://github.com/winok2)
 
