@@ -53,4 +53,5 @@ This portfolio is open-source and available under the [MIT License](LICENSE). Pl
 Gratitude to the open-source data analyis softwares, plethora of [free online data sets](https://www.kaggle.com/datasets) and the authors of the libraries and tools that contribute to the success of these projects
 
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=winok2.winok2&left_color=navy&right_color=deepskyblue&text_color=white)
+[Profile Views](https://visitor-badge.glitch.me/badge?page_id=winok2.winok2&left_color=001F3F&right_color=0074E8&text_color=FFFFFF)
+
