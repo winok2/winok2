@@ -1,68 +1,60 @@
-# Kennedy Ojowi_Healthcare Data Analyst/Scientist Portfolio
+# Healthcare Data Analyst & Health Informatics Enthusiast Portfolio
 
 ## Overview
 
-Welcome to my data analysis portfolio! In this repository, you'll find a collection of my data analysis projects, each aimed at exploring and visualizing datasets to uncover valuable insights. As a data analyst, I'm passionate about leveraging data to answer critical questions and solve real-world problems.
+Welcome to my data analysis portfolio, where I showcase projects focused on healthcare data and health informatics. As an aspiring healthcare data analyst, I am dedicated to leveraging data for meaningful insights and addressing healthcare challenges. Explore this collection to see how I integrate principles of health informatics to enhance the understanding and application of data-driven solutions.
 
 ## About Me
 
-- 👋 Hi, I'm [@winok2](https://github.com/winok2).
-- 👀 I'm interested in data analysis, data visualization, machine learning and health informatics.
-- 🌱 I'm currently learning new data analysis techniques and expanding my knowledge of machine learning and health informatics.
-- 💞️ I'm looking to collaborate on open-source healthcare data projects and interesting data analysis challenges.
-- 📫 You can reach me via [email](kowino34@yahoo.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kennedy-ojowi)
-  
+- 👋 Hi, I'm [@winok2](https://github.com/winok2), a passionate graduate student with a focus on health informatics.
+- 👀 Interested in data analysis, data visualization, machine learning, and their applications in healthcare.
+- 🌱 Currently expanding my knowledge of data analysis techniques and machine learning in the context of health informatics.
+- 💞️ Looking to collaborate on open-source healthcare data projects and engaging data analysis challenges.
+- 📫 Reach me via [email](kowino34@yahoo.com) or connect on [LinkedIn](https://www.linkedin.com/in/kennedy-ojowi).
+
 ## Projects
 
-## Project 1: Does Incentives play a role in HIV Status Disclosure?
+### Project 1: Does Incentives Play a Role in HIV Status Disclosure?
 
 **Description:** 
-This project analyzes a study in Malawi to understand the impact of cash incentives on HIV disclosure. Key factors, including age, distance, and incentives, are explored.
+Utilized Python (Pandas, NumPy, Matplotlib, Seaborn) in analyzing a study data to understand the impact of cash incentives on HIV disclosure. Explores key factors, including age, distance, and incentives.
 
-**Key Findings:**
-1. **Incentive Analysis:**
-   - Moderate correlation (0.35) between incentive and HIV disclosure.
+**Repository:** [link](https://github.com/winok2/HIV-status-disclosure-analysis-and-prediction).
+
+### Project 2: Exploring Climate Change Trends in Kenya 1960 to 2022
+
+**Key Takeaways:**
+The findings highlight a worrisome:
+- escalation in CO2 emissions,
+- persistent growth in urban population,
+- alarming reduction in forest cover, and
+- a concerning downturn in renewable energy consumption.
+These observations underscore the urgency for sustainable environmental practices and informed policymaking to address the evolving climate challenges in Kenya.
 
 **Technologies Used:**
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Visual Studio Code
+Power BI and its inbuilt M language.
 
-**Project Impact:**
-This project contributes insights into HIV disclosure dynamics, informing public health interventions and incentive strategies.
+**Repository:** [link](https://github.com/winok2/Factors-contributing-to-Climate-Change-in-Kenya)
 
-**Repository** [link](https://github.com/winok2/HIV-status-disclosure-analysis-and-prediction).
+### Project 3: Finding Insights from Unstructured EHR Clinical Notes
 
-## Project 2: Exploring Climate Change Trends in Kenya
+**Description:**
+This project holds significant real-world implications as it tackles the challenge of extracting valuable insights from unstructured Electronic Health Record (EHR) clinical notes. By employing **Regex** and **Python**, the aim is to enhance the understanding of patient health narratives, enabling more informed healthcare decisions and contributing to the advancement of personalized medicine.
 
-**Description:** An in-depth analysis of climate change trends in Kenya from 1960 to 2022.
+**Repository:** [link](https://github.com/winok2/Making-Sense-Out-of-Unstructured-Patient-Data)
 
-**Key take aways:**
-- CO2 emissions have been on the rise.
-- Urban population growth has been consistent.
-- Forest cover in Kenya has decreased.
-- Renewable energy consumption has seen a decline.
+### Project 4: Examining Patient Risk of Developing Coronary Artery Disease (CAD) within the Next 10 Years
 
-**Technologies Used:** Power BI and M language.
-**Repository** [link](https://github.com/winok2/Factors-contributing-to-Climate-Change-in-Kenya)
+**Description:**
+This project is crucial for healthcare intervention planning, utilizing **Python** (for meticulous data cleaning and joining) and **Power BI** (for effective visualization). By examining patient data, it offers valuable insights into specific risk categorie, guiding the development of tailored healthcare interventions and preventive measures against the potential development of Coronary Artery Disease (CAD) over the next decade.
 
+**Repository:** [link](https://github.com/winok2/Coronary-Artery-Disease-Risk-Stratification)
 
-## Project 3: Finding Insights from Unstructured EHR Clinical Notes
-- Regex and Python can be harnessed to find key data from noisy text corpus
--**Repository** [link](https://github.com/winok2/Making-Sense-Out-of-Unstructured-Patient-Data)
-
-## Project 4: Examining Patient risk of developing coronary artery disease (CAD) within the next 10 years
-
-- Utilized Python for data cleaning and Power BI for Visualization
-- **Key take aways:** This project provide valuable insight for specific risk categories and age groups that may benefit from tailored healthcare interventions and preventive measures.
-- **Repository** [link](https://github.com/winok2/Coronary-Artery-Disease-Risk-Stratification)
-
-
-## Project 5: Is in prepocessing stage
+### Project 5: In Preprocessing Stage
 
 ## License
 
-This portfolio is open-source and available under the [MIT License](LICENSE). You are welcome to use, modify, and share the code and findings, but please provide proper attribution.
+This portfolio is open-source and available under the [MIT License](LICENSE). Please provide proper attribution when using, modifying, or sharing the code and findings.
 
 ## Acknowledgments
-
-I'd like to express my gratitude to the open-source data science community and the authors of the libraries and tools that make these projects possible.
+Gratitude to the open-source data analyis softwares, plethora of [free online data sets](https://www.kaggle.com/datasets) and the authors of the libraries and tools that contribute to the success of these projects
