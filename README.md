@@ -25,7 +25,7 @@ Utilized Python (Pandas, NumPy, Matplotlib, Seaborn) in analyzing a study data t
 
 **Description:** 
 The findings highlight a worrisome: escalation in CO2 emissions, persistent growth in urban population, alarming reduction in forest cover, and a concerning downturn in renewable energy consumption.
-These observations underscore the urgency for sustainable environmental practices and informed policymaking to address the evolving climate challenges in Kenya. Technologies Used:**Power BI** and its **inbuilt M language**.
+These observations underscore the urgency for sustainable environmental practices and informed policymaking to address the evolving climate challenges in Kenya. Technologies Used: **Power BI** and its **inbuilt M language**.
 
 **Repository:** [link](https://github.com/winok2/Factors-contributing-to-Climate-Change-in-Kenya)
 
