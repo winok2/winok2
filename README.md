@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my data analysis portfolio, where I showcase projects focused on healthcare data and health informatics. As an aspiring healthcare data analyst, I am dedicated to leveraging data for meaningful insights and addressing healthcare challenges. Explore this collection to see how I integrate principles of health informatics to enhance the understanding and application of data-driven solutions.
+Welcome to my data analysis portfolio, where I showcase projects focused on healthcare data and health informatics. As healthcare data analyst, I am dedicated to leveraging data for meaningful insights and addressing healthcare challenges. Explore this collection to see how I integrate principles of health informatics to enhance the understanding and application of data-driven solutions.
 
 ## About Me
 
