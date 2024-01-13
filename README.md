@@ -8,7 +8,7 @@ Welcome to my data analysis portfolio, where I showcase projects focused on heal
 
 - 👋 Hi, I'm [@winok2](https://github.com/winok2), a passionate graduate student with a focus on health informatics.
 - 👀 Interested in data analysis, data visualization, machine learning, and their applications in healthcare.
-- 🌱 Currently expanding my knowledge of data analysis techniques and machine learning in the context of health informatics.
+- 🌱 Currently expanding my knowledge of data science techniques and machine learning in the context of health informatics.
 - 💞️ Looking to collaborate on open-source healthcare data projects and engaging data analysis challenges.
 - 📫 Reach me via [email](kowino34@yahoo.com) or connect on [LinkedIn](https://www.linkedin.com/in/kennedy-ojowi).
 
