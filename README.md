@@ -11,6 +11,7 @@ Welcome to my data analysis portfolio, where I showcase projects focused on heal
 - 🌱 Currently expanding my knowledge of data science techniques and machine learning in the context of health informatics.
 - 💞️ Looking to collaborate on open-source healthcare data projects and engaging data analysis challenges.
 - 📫 Reach me via [email](kowino34@yahoo.com) or connect on [LinkedIn](https://www.linkedin.com/in/kennedy-ojowi).
+- <img src="https://avatars.githubusercontent.com/u/137515971?v=4" width="20" height="20">[![Profile Views](https://komarev.com/ghpvc/?username=winok2&label=Profile+Views&color=001F3F&style=flat-square)](https://github.com/winok2)
 
 ## Projects
 
@@ -51,7 +52,3 @@ This portfolio is open-source and available under the [MIT License](LICENSE). Pl
 
 ## Acknowledgments
 Gratitude to the open-source data analyis softwares, plethora of [free online data sets](https://www.kaggle.com/datasets) and the authors of the libraries and tools that contribute to the success of these projects
-
-
-<img src="https://avatars.githubusercontent.com/u/137515971?v=4" width="20" height="20">[![Profile Views](https://komarev.com/ghpvc/?username=winok2&label=Profile+Views&color=001F3F&style=flat-square)](https://github.com/winok2)
-
