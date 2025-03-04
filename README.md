@@ -10,7 +10,7 @@ Welcome to my data analysis portfolio, where I showcase projects focused on heal
 - 👀 Interested in data analysis, data visualization, machine learning, and their applications in healthcare.
 - 🌱 Currently expanding my knowledge of data science techniques and machine learning in the context of health informatics.
 - 💞️ Looking to collaborate on open-source healthcare data projects and engaging data analysis challenges.
-- 📫 Reach me via [email](kowino34@yahoo.com) or connect on [LinkedIn](https://www.linkedin.com/in/kennedy-ojowi).
+- 📫 Reach me via [email](kowino34@yahoo.com) or connect on [LinkedIn](https://www.linkedin.com/in/kennedyojowi).
 - <img src="https://avatars.githubusercontent.com/u/137515971?v=4" width="20" height="20">[![Profile Views](https://komarev.com/ghpvc/?username=winok2&label=Profile+Views&color=001F3F&style=flat-square)](https://github.com/winok2)
 
 ## Projects
