@@ -44,7 +44,12 @@ This project is crucial for healthcare intervention planning, utilizing **Python
 
 **Repository:** [link](https://github.com/winok2/Coronary-Artery-Disease-Risk-Stratification)
 
-### Project 5: In Preprocessing Stage
+### Project 5: Clinical Documentation–Coding Reconciliation Engine (Offline MVP)
+
+**Description:**
+This project focuses on improving visibility into documentation–coding inconsistencies in hospital discharge data. Built using Python (for structured data ingestion, NLP-based term extraction, reconciliation logic, and local SQLite storage) and PyQt6 (for a professional offline desktop interface), the tool analyzes retrospective discharge summaries and assigned ICD-10-CA codes to identify potential mismatches and estimate funding sensitivity. It supports Health Information Management and finance teams with structured, decision-grade insights without requiring EMR integration or internet connectivity.
+
+**Repository:** [link](https://github.com/winok2/Hospital-Documentation-Funding-Integrity-Dashboard.git)
 
 ## License
 
