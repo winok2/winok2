@@ -1,4 +1,4 @@
-# Healthcare Data Analyst & Health Informatics Enthusiast Portfolio
+# Healthcare Data Analyst/Scientist & Health Informatics Portfolio
 
 ## Overview
 
